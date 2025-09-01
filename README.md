@@ -33,13 +33,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Currently working on **[Accident Hotspot](https://github.com/yuvakrishnayk/accident_hotspot)** - Making roads safer with data
 - 🌱 Learning **Advanced Flutter Animations** & **AI/ML Integration**
 - 👯 Looking to collaborate on **Open Source Flutter Projects**
 - 💬 Ask me about **Flutter, Dart, Mobile Development, UI/UX**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it! 😄**
 - 🎯 2025 Goals: **Contribute to 50+ open source projects**
-- 📫 Reach me at: **yuvakrishna@example.com**
+- 📫 Reach me at: **yuvakrishna2109@gmmail.com**
 
 ---
 
@@ -240,13 +239,7 @@
   </a>
 </p>
 
----
 
-## 💻 Random Dev Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Dev Meme" />
-</p>
 
 ---
 
