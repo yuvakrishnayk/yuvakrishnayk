@@ -2,9 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Enthusiast%20|%20Innovation%20Driver&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&repeat=true&width=600&lines=Building+Apps+That+Make+a+Difference+🚀;Flutter+%7C+Dart+%7C+Mobile+Development;Turning+Ideas+Into+Reality;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Links with Animated Badges -->
 <p align="center">
@@ -172,16 +170,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuvakrishnayk&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies" />
 </p>
-
----
-
-## 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvakrishnayk/yuvakrishnayk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvakrishnayk/yuvakrishnayk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuvakrishnayk/yuvakrishnayk/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
