@@ -35,7 +35,7 @@
 - 💬 Ask me about **Flutter, Dart, Mobile Development, UI/UX**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it! 😄**
 - 🎯 2025 Goals: **Contribute to 50+ open source projects**
-- 📫 Reach me at: **yuvakrishna2109@gmmail.com**
+- 📫 Reach me at: **yuvakrishna2109@gmail.com**
 
 ---
 
