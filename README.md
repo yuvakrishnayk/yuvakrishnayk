@@ -1,5 +1,5 @@
 <!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Enthusiast%20|%20Innovation%20Driver&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Enthusiast%20|%20AI&ML%20Innovator&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
