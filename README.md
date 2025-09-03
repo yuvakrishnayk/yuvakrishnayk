@@ -33,6 +33,7 @@
 - 🌱 Learning **Advanced Flutter Animations** & **AI/ML Integration**
 - 👯 Looking to collaborate on **Open Source Flutter Projects**
 - 💬 Ask me about **Flutter, Dart, Mobile Development, UI/UX**
+- 🚀 Learning **AI Agents & ML | Smarter Apps | Future-Ready Integrations**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it! 😄**
 - 🎯 2025 Goals: **Contribute to 50+ open source projects**
 - 📫 Reach me at: **yuvakrishna2109@gmail.com**
@@ -51,17 +52,14 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
 </p>
 
 ### 🗄️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -128,10 +126,10 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">✅ Todo & Posts</h3>
+      <h3 align="center">👨‍💻 Code Tool</h3>
       <div align="center">
-        <a href="https://github.com/yuvakrishnayk/todo_and_posts" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=todo_and_posts&theme=react&hide_border=true" alt="Todo and Posts" />
+        <a href="https://github.com/yuvakrishnayk/Code_Tool" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=Code_Tool&theme=react&hide_border=true" alt="Code_Tool" />
         </a>
         <br><br>
         <p>
@@ -139,7 +137,7 @@
           <img src="https://img.shields.io/badge/REST_API-02569B?style=flat" />
           <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
         </p>
-        <p><strong>Productivity meets social</strong></p>
+        <p><strong>Coding Meets Utility</strong></p>
       </div>
     </td>
   </tr>
@@ -151,13 +149,9 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvakrishnayk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvakrishnayk&theme=react&hide_border=true&bg_color=0D1117&stroke=0D1117&fire=F85D7F&ring=F85D7F&currStreakLabel=F85D7F" />
+  
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvakrishnayk&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvakrishnayk&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
-</p>
 
 ---
 
