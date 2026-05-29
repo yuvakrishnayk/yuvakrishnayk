@@ -1,8 +1,8 @@
-<!-- Animated Wave Header -->
+# <!-- Animated Wave Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Links with Animated Badges -->
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-<!-- About Me Section with Gradient Text Effect -->
+<!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -52,9 +52,7 @@
 
 ### 💻 Languages
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
 </p>
 
 ### 🗄️ Backend & Database
@@ -80,9 +78,9 @@
   <tr>
     <td width="50%">
       <h3 align="center">🚨 Accident Hotspot</h3>
-      <div align="center">  
+      <div align="center">
         <a href="https://github.com/yuvakrishnayk/accident_hotspot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=accident_hotspot&theme=react&hide_border=true" alt="Accident Hotspot" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=accident_hotspot&theme=react&hide_border=true&bg_color=0D1117" alt="Accident Hotspot" />
         </a>
         <br><br>
         <p>
@@ -90,22 +88,22 @@
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=google-maps&logoColor=white" />
         </p>
-        <p><strong>AI-powered accident prediction system</strong></p>
+        <p><strong>AI-powered accident prediction & hotspot mapping system</strong></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Learn Edge</h3>
-      <div align="center">  
-        <a href="https://github.com/yuvakrishnayk/learn_edge" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=learn_edge&theme=react&hide_border=true" alt="Learn Edge" />
+      <h3 align="center">🌾 Krishi Sakhi</h3>
+      <div align="center">
+        <a href="https://github.com/yuvakrishnayk/krishi_sakhi" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=krishi_sakhi&theme=react&hide_border=true&bg_color=0D1117" alt="Krishi Sakhi" />
         </a>
         <br><br>
         <p>
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/EdTech-FF6B6B?style=flat" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=google-cloud&logoColor=white" />
         </p>
-        <p><strong>Interactive learning platform</strong></p>
+        <p><strong>AI-powered smart farming assistant for farmers</strong></p>
       </div>
     </td>
   </tr>
@@ -114,7 +112,7 @@
       <h3 align="center">📋 Resume Screening</h3>
       <div align="center">
         <a href="https://github.com/yuvakrishnayk/resume_screening" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=resume_screening&theme=react&hide_border=true" alt="Resume Screening" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=resume_screening&theme=react&hide_border=true&bg_color=0D1117" alt="Resume Screening" />
         </a>
         <br><br>
         <p>
@@ -122,14 +120,14 @@
           <img src="https://img.shields.io/badge/ML-FF6F61?style=flat" />
           <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
         </p>
-        <p><strong>Smart recruitment automation</strong></p>
+        <p><strong>Smart recruitment automation with ML & NLP</strong></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">👨‍💻 Code Tool</h3>
       <div align="center">
         <a href="https://github.com/yuvakrishnayk/Code_Tool" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=Code_Tool&theme=react&hide_border=true" alt="Code_Tool" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=Code_Tool&theme=react&hide_border=true&bg_color=0D1117" alt="Code Tool" />
         </a>
         <br><br>
         <p>
@@ -137,7 +135,7 @@
           <img src="https://img.shields.io/badge/REST_API-02569B?style=flat" />
           <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
         </p>
-        <p><strong>Coding Meets Utility</strong></p>
+        <p><strong>Coding meets utility — your developer Swiss army knife</strong></p>
       </div>
     </td>
   </tr>
@@ -149,20 +147,15 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvakrishnayk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  
 </p>
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=yuvakrishnayk&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" 
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=yuvakrishnayk&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
        alt="yuvakrishnayk activity graph"/>
 </p>
-
-
-
 
 ---
 
@@ -226,15 +219,11 @@
   </a>
   <a href="https://linkedin.com/in/yuvakrishnai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
   </a>
   <a href="https://instagram.com/yk_2109">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
 </p>
-
-
 
 ---
 
