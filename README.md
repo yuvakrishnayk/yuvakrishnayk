@@ -1,8 +1,8 @@
 # <!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Yuva%20Krishna&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20GenAI%20%26%20LLM%20Engineer%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+Yuva's+Digital+Hub!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;GenAI+%26+LLM+Engineer+%F0%9F%A4%96;AI+Agents+Builder+%F0%9F%A7%A0;Cloud+Innovator+with+Firebase+%E2%98%81%EF%B8%8F;Mapping+the+Future+with+GeoTech+%F0%9F%8C%90;Let's+Build+Something+Impactful!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Links with Animated Badges -->
 <p align="center">
@@ -30,12 +30,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 Learning **Advanced Flutter Animations** & **AI/ML Integration**
-- 👯 Looking to collaborate on **Open Source Flutter Projects**
-- 💬 Ask me about **Flutter, Dart, Mobile Development, UI/UX**
-- 🚀 Learning **AI Agents & ML | Smarter Apps | Future-Ready Integrations**
+- 🌱 Learning **Advanced Flutter Animations**, **GenAI Agents**, and **LLM-powered App Integration**
+- 👯 Looking to collaborate on **Open Source Flutter + AI Agent Projects**
+- 💬 Ask me about **Flutter, Dart, LLMs, RAG, AI Agents, Mobile Development, UI/UX**
+- 🚀 Building **Smarter Apps with LLMs, RAG Pipelines & Autonomous Agents**
+- 🧠 Exploring **LangChain, RAG, Vector Databases & Multi-Agent Systems**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it! 😄**
-- 🎯 2025 Goals: **Contribute to 50+ open source projects**
+- 🎯 2026 Goals: **Ship production-grade GenAI agents inside Flutter apps & contribute to 50+ open source projects**
 - 📫 Reach me at: **yuvakrishna2109@gmail.com**
 
 ---
@@ -50,15 +51,29 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
+### 🤖 GenAI, LLMs & Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge" />
+</p>
+
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### 🗄️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -69,6 +84,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+---
+
+## 🧠 GenAI & LLM Focus
+
+I'm actively building at the intersection of **Flutter mobile apps** and **GenAI / LLM-powered agents** — turning static apps into intelligent, context-aware experiences.
+
+- 🔗 **LLM App Integration** — wiring OpenAI / Gemini / Hugging Face models directly into Flutter apps for smart, real-time features
+- 🕵️ **AI Agents** — designing autonomous and multi-step agents that reason, call tools, and complete tasks (recruitment screening, farming advisory, etc.)
+- 📚 **RAG (Retrieval-Augmented Generation)** — building retrieval pipelines with vector databases to ground LLM responses in real data
+- 📱 **On-Device AI** — deploying TensorFlow Lite models for offline/edge inference in mobile apps
+- 🌾 **Domain-specific LLM Assistants** — e.g. an AI farming assistant (Krishi Sakhi) and an LLM-based resume screening engine
 
 ---
 
@@ -87,8 +114,9 @@
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=google-maps&logoColor=white" />
+          <img src="https://img.shields.io/badge/Predictive_AI-FF6F00?style=flat" />
         </p>
-        <p><strong>AI-powered accident prediction & hotspot mapping system</strong></p>
+        <p><strong>AI-powered accident prediction & hotspot mapping system using data analytics and predictive modeling</strong></p>
       </div>
     </td>
     <td width="50%">
@@ -101,9 +129,9 @@
         <p>
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=google-cloud&logoColor=white" />
+          <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=google-cloud&logoColor=white" />
         </p>
-        <p><strong>AI-powered smart farming assistant for farmers</strong></p>
+        <p><strong>AI-powered smart farming assistant that guides farmers using GenAI-driven advisory features</strong></p>
       </div>
     </td>
   </tr>
@@ -117,13 +145,30 @@
         <br><br>
         <p>
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/ML-FF6F61?style=flat" />
+          <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white" />
           <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
         </p>
-        <p><strong>Smart recruitment automation with ML & NLP</strong></p>
+        <p><strong>LLM-powered resume screening app that analyzes candidates and matches them to job requirements with interactive insights</strong></p>
       </div>
     </td>
     <td width="50%">
+      <h3 align="center">📚 Learn Edge</h3>
+      <div align="center">
+        <a href="https://github.com/yuvakrishnayk/learn_edge" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=learn_edge&theme=react&hide_border=true&bg_color=0D1117" alt="Learn Edge" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/EdTech-FF6B6B?style=flat" />
+        </p>
+        <p><strong>Interactive learning platform built with Flutter & Firebase</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
       <h3 align="center">👨‍💻 Code Tool</h3>
       <div align="center">
         <a href="https://github.com/yuvakrishnayk/Code_Tool" target="_blank">
@@ -159,6 +204,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvakrishnayk&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+---
+
 ## 💭 Dev Quote of the Day
 
 <p align="center">
@@ -171,17 +224,22 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" />
       <br><strong>Advanced Flutter</strong>
       <br>Complex animations & custom painters
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="48" height="48" alt="AI/ML" />
-      <br><strong>AI/ML Integration</strong>
-      <br>TensorFlow Lite in mobile apps
+      <br><strong>GenAI & LLM Integration</strong>
+      <br>OpenAI, Gemini & RAG in mobile apps
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/bot.png" width="48" height="48" alt="AI Agents" />
+      <br><strong>AI Agents</strong>
+      <br>Tool-calling & autonomous workflows
+    </td>
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/open-source.png" width="48" height="48" alt="Open Source" />
       <br><strong>Open Source</strong>
       <br>Contributing to Flutter ecosystem
@@ -195,6 +253,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Building Scalable Flutter Apps: Best Practices](#)
+- 🤖 [Integrating LLMs into Flutter Apps: A Practical Guide](#)
+- 🧠 [Building Your First AI Agent with LangChain](#)
 - 💡 [State Management in Flutter: A Complete Guide](#)
 - 🎨 [Creating Custom Animations in Flutter](#)
 - 🔧 [Flutter Performance Optimization Tips](#)
