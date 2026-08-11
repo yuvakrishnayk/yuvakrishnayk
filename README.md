@@ -143,11 +143,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvakrishnayk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</p>
 
 ## 📈 Contribution Graph
 
