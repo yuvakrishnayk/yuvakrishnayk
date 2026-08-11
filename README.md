@@ -99,67 +99,51 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚨 Accident Hotspot</h3>
-      <div align="center">
-        <a href="https://github.com/yuvakrishnayk/accident_hotspot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=accident_hotspot&theme=react&hide_border=true&bg_color=0D1117" alt="Accident Hotspot" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=google-maps&logoColor=white" />
-        </p>
-        <p><strong>AI-powered accident prediction & hotspot mapping system</strong></p>
-      </div>
+    <td width="50%" align="center">
+      <h3>🚨 Accident Hotspot</h3>
+      <a href="https://github.com/yuvakrishnayk/accident_hotspot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=accident_hotspot&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Accident Hotspot" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=google-maps&logoColor=white" />
+      <p><strong>AI-powered accident prediction & hotspot mapping system</strong></p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌾 Krishi Sakhi</h3>
-      <div align="center">
-        <a href="https://github.com/yuvakrishnayk/krishi_sakhi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=krishi_sakhi&theme=react&hide_border=true&bg_color=0D1117" alt="Krishi Sakhi" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=google-cloud&logoColor=white" />
-        </p>
-        <p><strong>AI-powered smart farming assistant for farmers</strong></p>
-      </div>
+    <td width="50%" align="center">
+      <h3>🌾 Krishi Sakhi</h3>
+      <a href="https://github.com/yuvakrishnayk/krishi_sakhi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=krishi_sakhi&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Krishi Sakhi" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=google-cloud&logoColor=white" />
+      <p><strong>AI-powered smart farming assistant for farmers</strong></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📋 Resume Screening</h3>
-      <div align="center">
-        <a href="https://github.com/yuvakrishnayk/resume_screening" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=resume_screening&theme=react&hide_border=true&bg_color=0D1117" alt="Resume Screening" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/ML-FF6F61?style=flat" />
-          <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
-        </p>
-        <p><strong>Smart recruitment automation with ML & NLP</strong></p>
-      </div>
+    <td width="50%" align="center">
+      <h3>📋 Resume Screening</h3>
+      <a href="https://github.com/yuvakrishnayk/resume_screening">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=resume_screening&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Resume Screening" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-FF6F61?style=flat" />
+      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
+      <p><strong>Smart recruitment automation with ML & NLP</strong></p>
     </td>
-    <td width="50%">
-      <h3 align="center">👨‍💻 Code Tool</h3>
-      <div align="center">
-        <a href="https://github.com/yuvakrishnayk/Code_Tool" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=Code_Tool&theme=react&hide_border=true&bg_color=0D1117" alt="Code Tool" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/REST_API-02569B?style=flat" />
-          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-        </p>
-        <p><strong>Coding meets utility — your developer Swiss army knife</strong></p>
-      </div>
+    <td width="50%" align="center">
+      <h3>👨‍💻 Code Tool</h3>
+      <a href="https://github.com/yuvakrishnayk/Code_Tool">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvakrishnayk&repo=Code_Tool&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Code Tool" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+      <p><strong>Coding meets utility — your developer Swiss army knife</strong></p>
     </td>
   </tr>
 </table>
